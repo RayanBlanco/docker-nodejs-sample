@@ -1,16 +1,16 @@
 body {
-    background-color: #f4f4f4;
+    background-color: #fe7700;
     margin-top: 50px;
     font-family: 'Lato';
 }
 
 .item {
-    background-color: white;
+    background-color: rgb(255, 128, 0);
     padding: 15px;
     margin-bottom: 15px;
     border: transparent;
     border-radius: 5px;
-    box-shadow: 0 0 1em #ccc;
+    box-shadow: 0 0 1em #ff7b00;
     transition: all .2s ease-in-out;
 }
 
