@@ -1,3 +1,19 @@
-# Sample Node.js application
+# Abschlussarbeit
 
-This repository is a sample Node.js application for Docker's documentation.
+## Projektbeschreibung
+
+## Voraussetzungen
+
+## Repository klonen
+
+## Pakete installieren
+
+## Anwendung lokal starten
+
+## Docker-Image erstellen
+
+## Anwendung mit Docker starten
+
+## Anwendung mit Docker Compose starten
+
+## Anwendung stoppen
